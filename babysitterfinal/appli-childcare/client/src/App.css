@@ -1,0 +1,163 @@
+.imgacc {
+    
+   height: 450px;
+   background-image: url("https://ludicoiffure.fr/wp-content/uploads/2019/03/carre2.jpg")
+
+}
+
+.imgajouter {
+    
+   height: 150px;
+   background-color: rgba(190, 193, 194, 0.521) ;
+   margin-top: 15px;
+   
+
+}
+
+.textacc {
+    font-size: 50px;
+    color: rgb(89, 167, 177);
+    padding-left: 150px;
+}
+
+.textajouter {
+    font-size: 30px;
+    color: white;
+    padding-left: 200px;
+    position: relative;
+    top: 45px;
+   
+}
+
+.imgtem1 {
+    width: 90px;
+    height: 65px;
+    padding: 5px;
+}
+
+.tem1{
+    display: flex
+}
+.letem1{
+    border: solid 1px black;
+    width: 30%;
+    margin: 20px;
+    background-color: rgba(190, 193, 194, 0.521)
+    
+}
+.partem{
+    padding: 5px;
+    text-align: justify
+}
+.partemm{
+    padding: 5px;
+    text-align: center
+}
+.temoignages{
+    display: flex
+}
+.titre{
+    text-align: center;
+    margin-top: 30px
+}
+
+.imgval1{
+    width: 260px;
+    height: 200px;
+    padding: 25px
+}
+
+.valeur{
+    border: solid 1px black;
+    width: 30%;
+    margin: 20px;
+    text-align: center;
+    background-color: rgba(234, 240, 241, 0.486)
+}
+.annonce{
+    display: flex;
+    justify-content: space-around
+}
+.register-btn{
+    width: 190px;
+    background-color: rgb(190, 193, 194);
+    font-weight: bold;
+    font-size: 20px;
+    height: 70px
+    
+}
+.btnn{
+    
+    background-color: rgb(78, 168, 179);
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    position: relative; bottom: 20px;
+    
+}
+.rejoignez{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    padding-top: 130px;
+    height: 290px;
+    background-image: url(https://cache.magicmaman.com/data/photo/w1000_ci/54/recrutement-nounou.jpg)
+}
+.titrerej{
+    font-weight: bold;
+    color: white
+}
+.quisomnous{
+    display: flex;
+ justify-content: space-around
+}
+.pquisomnous{
+    width: 60%;
+    position: relative; 
+    left: 220px;
+    text-align: justify
+}
+.par1{
+    position: relative; 
+    left: 80px;
+    width: 25%
+}
+
+
+.admail{
+    color: rgb(89, 167, 177) ;
+    font-size: 17px
+}
+.avderniere{
+    margin-top: 5px;
+    background-color: rgb(68, 69, 70);
+    color: white;
+    padding: 40px
+}
+.footer{
+    text-align: center;
+    background-color: rgb(43, 44, 46);
+    color: white;
+    height: 60px;
+    padding-top: 20px
+}
+
+h6{
+    padding-top: 5px
+}
+.register {
+    margin-right : 10px;
+    margin-left : 10px;
+    width: 400px;
+}
+
+.dash{
+    padding-left: 50px
+}
+
+.profile {
+    margin-bottom: 20px;
+    width: 60%;
+    border: solid 1px black
+    
+}
